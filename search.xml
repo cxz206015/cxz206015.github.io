@@ -20,11 +20,11 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/README.html"/>
+      <url>/README.html</url>
       
-        <content type="html"><![CDATA[<p>这里是耶比大熊的blog，支持 Markdown, HTML</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="耶比大熊"><a href="#耶比大熊" class="headerlink" title="耶比大熊"></a>耶比大熊</h1><p>这里是大熊的秘密基地</p>]]></content>
       
     </entry>
     
@@ -42,11 +42,11 @@
     
     
     <entry>
-      <title>友人帐</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>这里是耶比大熊的blog，支持 Markdown, HTML</p>]]></content>
       
     </entry>
     
@@ -56,6 +56,17 @@
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友人帐</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
